@@ -1,1 +1,0 @@
-# Regresion_No_Lineal
